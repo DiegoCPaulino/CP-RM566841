@@ -1,0 +1,68 @@
+li {
+    display: inline;
+    color: black;
+}
+
+ul {
+    padding: 0px;
+    text-align: right;
+}
+
+.tituloPagina {
+    text-align: center;
+    font-size: 40px;
+}
+
+.paragrafoPagina {
+    text-align: center;
+    font-size: 18px;
+}
+
+.container {
+    background-color: #f5f5f5;
+    border: 2px solid #cdcdcd;
+    text-align: center;
+    padding: 10px;
+    margin-top: 200px;
+}
+
+.box {
+    border: 2px solid #cdcdcd;
+    padding: 10px;
+    margin: 10px;
+    width: 320px;
+    height: 250px;
+    display: inline-block;
+    background-color: #f5f5f5;
+}
+
+.subtitulo {
+    font-size: 28px;
+    text-align: left;
+}
+
+.paragrafo {
+    text-align: left;
+}
+
+.containerRodape {
+    background-color: #ffffff;
+    border: 2px solid #cdcdcd;
+    text-align: center;
+    padding: 10px;
+}
+
+.containerHeader {
+    background-color: #ffffff;
+    border: 2px solid #cdcdcd;
+    padding: 10px;
+}
+
+.texto {
+    color: black;
+    text-align: right;
+}
+
+.pHeader {
+    text-align: left;
+}
